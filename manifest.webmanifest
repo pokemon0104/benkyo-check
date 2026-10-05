@@ -1,0 +1,17 @@
+{
+  "name": "ゲームOK！ 勉強チェック",
+  "short_name": "ゲームOK",
+  "description": "今日のやることを全部おわらせたらゲームOK。小学生向けの勉強進捗アプリ。",
+  "lang": "ja",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#F2F6FE",
+  "theme_color": "#2F6FDB",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png"},
+    {"src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}
